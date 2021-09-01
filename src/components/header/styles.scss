@@ -1,0 +1,25 @@
+header{
+    width:100%;
+    height: 80px;
+    margin: 0 auto;
+    background-color: beige;
+    display: block;
+    top:0px;
+    .wrap{
+        position: relative;
+        width: 100%;
+        height: 100%;
+        .logo{
+            position: absolute;
+            width:120px;
+            left: 10px;
+            top:50%;
+            transform: translateY(-50%);
+            img{
+                width: 100%;
+                margin: 0;
+            }
+        }
+    }
+
+}

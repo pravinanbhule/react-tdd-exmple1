@@ -1,0 +1,53 @@
+<svg
+	xmlns="http://www.w3.org/2000/svg" width="114.506" height="270" viewBox="0 0 114.506 270">
+	<defs>
+		<style>.a,.b{fill:none;stroke:#222;stroke-width:2px;}.b{stroke-linecap:round;}</style>
+	</defs>
+	<g transform="translate(1.959 1.141)">
+		<path class="a" d="M-20271.344-19851.187l76.836-42.273,33.611,18.494-80.436,42.9Z" transform="translate(20271.344 19893.461)"/>
+		<path class="a" d="M-20271.934-19868.02l29.836,19.166-.363,11.678-29.473-20.3Z" transform="translate(20272.018 19910.266)"/>
+		<path class="a" d="M-20191.9-19869.309l-80.441,42.869-.437,11.68,80.879-44.176Z" transform="translate(20302.264 19887.775)"/>
+		<g transform="translate(-433.689 -405.396)">
+			<line class="b" x2="30" y2="19" transform="translate(447.5 440.164)"/>
+			<line class="b" x2="30" y2="19" transform="translate(460.5 433.164)"/>
+			<line class="b" x2="30" y2="19" transform="translate(474.5 426.164)"/>
+			<line class="b" x2="31.086" y2="18.5" transform="translate(486.5 419.164)"/>
+			<line class="b" x2="30.086" y2="18.164" transform="translate(499.5 412.164)"/>
+		</g>
+	</g>
+	<defs>
+		<style>.aHover{fill:#F8E80B;stroke:#222;stroke-width:2px;}.b{fill:none;stroke:#222;stroke-width:2px;}.b{stroke-linecap:round;}</style>
+	</defs>
+	<g transform="translate(1.959 90)">
+		<path class="aHover" d="M-20271.344-19851.187l76.836-42.273,33.611,18.494-80.436,42.9Z" transform="translate(20271.344 19893.461)"/>
+		<path class="aHover" d="M-20271.934-19868.02l29.836,19.166-.363,11.678-29.473-20.3Z" transform="translate(20272.018 19910.266)"/>
+		<path class="aHover" d="M-20191.9-19869.309l-80.441,42.869-.437,11.68,80.879-44.176Z" transform="translate(20302.264 19887.775)"/>
+		<g transform="translate(-433.689 -405.396)">
+			<line class="b" x2="30" y2="19" transform="translate(447.5 440.164)"/>
+			<line class="b" x2="30" y2="19" transform="translate(460.5 433.164)"/>
+			<line class="b" x2="30" y2="19" transform="translate(474.5 426.164)"/>
+			<line class="b" x2="31.086" y2="18.5" transform="translate(486.5 419.164)"/>
+			<line class="b" x2="30.086" y2="18.164" transform="translate(499.5 412.164)"/>
+		</g>
+	</g>
+	<defs>
+		<style>
+		.aSel{fill:#FDF9C1;stroke:#F98F60;stroke-width:2px;}
+		.aL{fill:#F98F60;stroke:#F98F60;stroke-width:2px;}
+		.aR{fill:#BF7858;stroke:#BF7858;stroke-width:2px;}
+		.bSel{fill:#F8E80B;stroke:#F98F60;stroke-width:2px;}
+		.bSel{stroke-linecap:round;}</style>
+	</defs>
+	<g transform="translate(1.959 180)">
+		<path class="aSel" d="M-20271.344-19851.187l76.836-42.273,33.611,18.494-80.436,42.9Z" transform="translate(20271.344 19893.461)"/>
+		<path class="aSel aL" d="M-20271.934-19868.02l29.836,19.166-.363,11.678-29.473-20.3Z" transform="translate(20272.018 19910.266)"/>
+		<path class="aSel aR" d="M-20191.9-19869.309l-80.441,42.869-.437,11.68,80.879-44.176Z" transform="translate(20302.264 19887.775)"/>
+		<g transform="translate(-433.689 -405.396)">
+			<line class="bSel" x2="30" y2="19" transform="translate(447.5 440.164)"/>
+			<line class="bSel" x2="30" y2="19" transform="translate(460.5 433.164)"/>
+			<line class="bSel" x2="30" y2="19" transform="translate(474.5 426.164)"/>
+			<line class="bSel" x2="31.086" y2="18.5" transform="translate(486.5 419.164)"/>
+			<line class="bSel" x2="30.086" y2="18.164" transform="translate(499.5 412.164)"/>
+		</g>
+	</g>	
+</svg>

@@ -1,0 +1,42 @@
+<svg
+	xmlns="http://www.w3.org/2000/svg" width="262.613" height="900" viewBox="0 0 262.613 900">
+	<defs>
+		<style>.a{fill:none;stroke:#222;stroke-width:2px;}</style>
+	</defs>
+	<g transform="translate(1.447 0)">
+		<path class="a" d="M-19977.4-18291.117l80.693,70.869,103.736,56.2-84.357-71.93Z" transform="translate(20053.492 18291.117)"/>
+		<path class="a" d="M-19968.908-18291.117l-76.086,111.328,100.074,55.137,76.084-111.328Z" transform="translate(20044.994 18292.186)"/>
+	</g>
+	<defs>
+		<style>.aHover{fill:#F8E80B;stroke:#222;stroke-width:2px;}</style>
+	</defs>
+	<g transform="translate(1.447 180)">
+		<path class="aHover" d="M-19977.4-18291.117l80.693,70.869,103.736,56.2-84.357-71.93Z" transform="translate(20053.492 18291.117)"/>
+		<path class="aHover" d="M-19968.908-18291.117l-76.086,111.328,100.074,55.137,76.084-111.328Z" transform="translate(20044.994 18292.186)"/>
+	</g>	
+	<defs>
+		<style>.aMetal{fill:#548ec9;}.bMetal{fill:url(#aMetal);}</style>
+		<linearGradient id="aMetal" x1="0.802" y1="0.371" x2="0.437" y2="1" gradientUnits="objectBoundingBox">
+			<stop offset="0" stop-color="#c6dff9"/>
+			<stop offset="1" stop-color="#92b7dc"/>
+		</linearGradient>
+	</defs>
+	<g transform="translate(1.447 360)">
+		<path class="aMetal" d="M-19977.4-18291.117l80.693,70.869,103.736,56.2-84.357-71.93Z" transform="translate(20053.492 18291.117)"/>
+		<path class="bMetal" d="M-19968.908-18291.117l-76.086,111.328,100.074,55.137,76.084-111.328Z" transform="translate(20044.994 18292.186)"/>
+	</g>	
+	<defs>
+		<style>.aWood{fill:#fbb906;}.bWood{fill:url(#aWood);}</style><linearGradient id="aWood" x1="0.802" y1="0.371" x2="0.437" y2="1" gradientUnits="objectBoundingBox"><stop offset="0" stop-color="#f1d99a"/><stop offset="1" stop-color="#fbb906"/></linearGradient>
+	</defs>
+	<g transform="translate(1.447 540)">
+		<path class="aWood" d="M-19977.4-18291.117l80.693,70.869,103.736,56.2-84.357-71.93Z" transform="translate(20053.492 18291.117)"/>
+		<path class="bWood" d="M-19968.908-18291.117l-76.086,111.328,100.074,55.137,76.084-111.328Z" transform="translate(20044.994 18292.186)"/>
+	</g>	
+	<defs>
+		<style>.aClay{fill:#999;}.bClay{fill:url(#aClay);}</style><linearGradient id="aClay" x1="0.802" y1="0.371" x2="0.437" y2="1" gradientUnits="objectBoundingBox"><stop offset="0" stop-color="#dcd7d7"/><stop offset="1" stop-color="#999"/></linearGradient>
+	</defs>
+	<g transform="translate(1.447 720)">
+		<path class="aClay" d="M-19977.4-18291.117l80.693,70.869,103.736,56.2-84.357-71.93Z" transform="translate(20053.492 18291.117)"/>
+		<path class="bClay" d="M-19968.908-18291.117l-76.086,111.328,100.074,55.137,76.084-111.328Z" transform="translate(20044.994 18292.186)"/>
+	</g>	
+</svg>
